@@ -556,4 +556,7 @@ span.footer-logo {
 .fill {
     fill: white;
 }
+.picture {
+    position: relative;
+}
 
